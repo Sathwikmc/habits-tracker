@@ -1,4 +1,4 @@
-# 🌱 Habits. — Visual Habit Tracker
+# 🌱 Habits. — Visual Habit Tracker  
 
 > A clean, dark-themed, single-page habit tracking app built with React. No chart libraries. Just React + raw SVG.
 
