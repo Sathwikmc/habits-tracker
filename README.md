@@ -1,6 +1,6 @@
 # 🌱 Habits. — Visual Habit Tracker  
 
-> A clean, dark-themed, single-page habit tracking app built with React. No chart libraries. Just React + raw SVG.
+> A clean, dark-themed, single-page habit tracking app built with React. No chart l ibraries. Just React + raw SVG.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
